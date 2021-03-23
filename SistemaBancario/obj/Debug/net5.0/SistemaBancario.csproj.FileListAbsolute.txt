@@ -1,0 +1,16 @@
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\SistemaBancario.exe
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\SistemaBancario.deps.json
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\SistemaBancario.runtimeconfig.json
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\SistemaBancario.runtimeconfig.dev.json
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\SistemaBancario.dll
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\ref\SistemaBancario.dll
+C:\Projetos\SistemaBancario\SistemaBancario\bin\Debug\net5.0\SistemaBancario.pdb
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.csprojAssemblyReference.cache
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.AssemblyInfo.cs
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.dll
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\ref\SistemaBancario.dll
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.pdb
+C:\Projetos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\SistemaBancario.genruntimeconfig.cache
